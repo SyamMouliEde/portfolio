@@ -1,17 +1,17 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
+  name: "Syam Mouli Ede",
+  profile: '/profile.JPG',
   designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
+  description: "My name is Syam Mouli Ede. I am a Frontend Developer and a UX/UI designer dedicated to delivering exceptional digital solutions. My career thrives on pushing boundaries and creating innovative user experiences. I'm driven by the pursuit of excellence and thrive in challenging environments where I can contribute my expertise",
+  email: 'syammouliede.com',
+  phone: '+83415444494',
+  address: '5-1-3,Bantumilli-521324, AP, India ',
+  github: 'https://github.com/SyamMouliEde',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+  linkedIn: 'https://www.linkedin.com/in/syam-mouli-ede-0a815b225/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1yuysaiNNV9MMcJTAVa1FIW3EpzB1WjAS/view?usp=sharing"
 }
